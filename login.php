@@ -1,5 +1,6 @@
 <?php
 require('db.php');
+session_start();
 
 // If form submitted, check and authenticate user
 if (isset($_POST['email'])) {
