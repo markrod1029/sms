@@ -1,0 +1,9 @@
+**Database Name: sms**
+
+**Login Details Admin**
+
+Username: mark 
+Password: password
+
+Username: admin
+Password: admin
