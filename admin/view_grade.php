@@ -99,7 +99,7 @@ if ($result && mysqli_num_rows($result) > 0) {
                 <div class="form-group">
                     <div class="col-sm-offset-4 col-sm-8">
                         <button type="submit" class="btn btn-primary">Update</button>
-                        <a href="home_grades.php" class="btn btn-default">Cancel</a>
+                        <a href="home_Manage_grades.php" class="btn btn-default">Cancel</a>
                     </div>
                 </div>
             </form>

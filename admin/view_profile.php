@@ -63,7 +63,7 @@ $user = mysqli_fetch_assoc($result);
                 <label class="col-sm-5 control-label"></label>
                 <div class="col-sm-4">
                     <input type="submit" name="submit" style="border-radius:0%" value="Update" class="btn btn-danger">
-                    <a href="home_employee.php" style="border-radius:0%" class="btn btn-primary">Cancel</a>
+                    <a href="home.php" style="border-radius:0%" class="btn btn-primary">Cancel</a>
                 </div>
             </div>
         </form>

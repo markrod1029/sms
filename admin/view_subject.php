@@ -70,7 +70,7 @@ if ($result && mysqli_num_rows($result) > 0) {
                     <div class="form-group">
                         <div class="col-sm-offset-5 col-sm-7">
                             <button type="submit" class="btn btn-primary">Update</button>
-                            <a href="home_deductions.php" class="btn btn-default">Cancel</a>
+                            <a href="home_subjects.php" class="btn btn-default">Cancel</a>
                         </div>
                     </div>
                 </form>
