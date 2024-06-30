@@ -10,7 +10,7 @@
   <script src="../assets/js/bootstrap.min.js"></script>
 
   <!-- Include DataTables JS -->
-  <script type="text/javascript" charset="utf-8" language="javascript" src="assets/js/dataTables.min.js"></script>
+  <script type="text/javascript" charset="utf-8" language="javascript" src="../assets/js/dataTables.min.js"></script>
 
   <script>
     $(document).ready(function () {
